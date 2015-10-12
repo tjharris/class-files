@@ -1,3 +1,3 @@
 # class-files
 My first repository.
-I love to drive sports cars.
+I love to drive sports cars and party.
